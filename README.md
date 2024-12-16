@@ -1,3 +1,3 @@
 # KT
-Simple Friend Code Tool.
+Simple Friend Code Discord Bot.
 
